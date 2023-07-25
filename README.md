@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmKumarChaudhary
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing BIT
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently pursuing BIT.
 - 📫 Contact Me : kumarchaudhary17427@gmail.com
 
 <!---
